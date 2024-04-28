@@ -1,0 +1,5 @@
+conda env  - create/activate/deactivate/package instaallation
+visual video - env/kernel set up
+jupyter notebook - path/folder structer/basic  terminal comds
+python - package installation pip/requirement.txt/ 
+ML - ppandas, matplotlib, numpy, scikit-learn, EDA, house price dataset
